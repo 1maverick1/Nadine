@@ -1,5 +1,5 @@
 # Natalie.go
-[![Actions Status](https://github.com/HarukaNetwork/HarukaX/workflows/CI/badge.svg)](https://github.com/HarukaNetwork/HarukaX/actions)
+[![Actions Status](https://github.com/HarukaNetwork/HarukaX/workflows/CI/badge.svg)](https://github.com/1maverick1/Natalie.go/actions)
 
 Telegram bot written in Go. Currently in alpha. Contributions are welcome.
 

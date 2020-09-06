@@ -1,11 +1,11 @@
-# Haruka X
+# Natalie.go
 [![Actions Status](https://github.com/HarukaNetwork/HarukaX/workflows/CI/badge.svg)](https://github.com/HarukaNetwork/HarukaX/actions)
 
 Telegram bot written in Go. Currently in alpha. Contributions are welcome.
 
 A modular group management bot, written with the purpose of being highly concurrent.
 
-You can [find us on telegram](https://t.me/gobotsupport)! I'm usually online, so I can hopefully answer any questions you may have.
+You can [find us on telegram](https://t.me/NatalieSupport)! I'm usually online, so I can hopefully answer any questions you may have.
 
 
 
@@ -33,4 +33,4 @@ It's that simple.
 ## Download source
 Contributions to this project are welcome.
 To download the source, get it like any other Go project:
- `go get -u github.com/HarukaNetwork/HarukaX`.
+ `go get -u github.com/1maverick1/Natalie.go`.
